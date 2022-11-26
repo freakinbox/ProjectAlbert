@@ -19,7 +19,7 @@
 
 ### Current main Server/storage
 
-- I5 2400 cpu
+- Intel i5 2400 cpu
 - 16 gigs of ram
 - 1 500 gig SSD
 - 2 1 TB HDDs
