@@ -4,10 +4,10 @@
 - [X] setup URL
 - [X] configure NGINX
 - [X] SSL certs
-- [ ] buy more URLS
+- [ ] setup Webmail server  <del>figure out Webmail
+- [ ] buy URL for mastodon instance ****
 - [ ] configure storage (current)
 - [ ] upgrade storage
-- [ ] figure out Webmail
 - [ ] install mastodon
 - [ ] buy dedicated url for mastodon instance
 - [ ] install wordpress
